@@ -1,4 +1,6 @@
-nd-color: white;
+@import url("styles/header.css");
+
+:nd-color: white;
 }root {
     --cor-de-fundo: #EBECEE;
    -- background-color: var(--branco);
@@ -7,5 +9,3 @@ body {
     background-color: var(--cor-de-fundo);
 }
 
-h1 {
-    backgrou
